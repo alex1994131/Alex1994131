@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm [Denis Tuktarov](), a passionate self-taught Full Stack web developer and a freelance software engineer from Russia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Alex Liu](), a passionate self-taught Full Stack web developer and a freelance software engineer from Russia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
   <img align="right" alt="GIF" src="https://github.com/tuktarov9898/tuktarov9898/blob/main/images/code.gif?raw=true" width="450" height="320" />
   
-- 💼 Any freelance work? Do reach, [email](mailto:tuktarov2121@gmail.com) :)
+- 💼 Any freelance work? Do reach, [email](mailto:majesty1994131@outlook.com) :)
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**  
