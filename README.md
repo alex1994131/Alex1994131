@@ -97,20 +97,3 @@ CSS          9 mins          ▒░░░░░░░░░░░░░░░░
 <img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=Alex1994131&sshow_icons=true&theme=gotham&count_private=true">
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alex1994131&layout=compact&theme=monokai&count_private=true">
 </p>
-
-
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  7,837 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 642 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
-## License 
-
-[![CC0](https://licensebuttons.net/l/GPL/2.0/88x62.png)](https://creativecommons.org/)
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-
